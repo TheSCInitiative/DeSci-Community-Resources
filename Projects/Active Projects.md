@@ -24,3 +24,20 @@
 | ReputableDAO | Lorum | [ReputableDAO](https://discord.gg/y9NBdYTm7C) | [@ReputableDAO](https://twitter.com/ReputableDAO) | [Website](https://www.reputable.health/) |
 | Vibe Bio | Lorum | N/A | [@Vibe_Bio](https://twitter.com/vibe_bio) | [Website](http://www.vibebio.com/) |
 | VitaDAO | Lorum | [VitaDAO](https://discord.gg/vitadao) | [@Vita_DAO](https://twitter.com/vita_dao) | [Website](https://www.vitadao.com/) |
+
+## Compute Over Data
+
+| Project   | Description | Discord | Twitter | Website |
+| --------- | ----------- | ------- | ------- | ------- |
+| 180 Protocol | Lorum | N/A | [@180ProtocolTech](https://twitter.com/180ProtocolTech) | [Website](https://www.180protocol.com/) |
+| Bacalhau | Lorum | N/A | N/A | [Website](https://www.bacalhau.org/) |
+| BOINC | Lorum | [BOINCNetwork](https://discord.com/invite/wPRafUq) | [@BOINCNetwork](https://twitter.com/BOINCNetwork) | [Website](https://boinc.berkeley.edu/) |
+| Ceramic | Lorum | [Ceramic](https://chat.ceramic.network/) | [@CeramicNetwork](https://twitter.com/ceramicnetwork) | [Website](https://ceramic.network/) |
+| Cudos | Lorum | [Cudos](https://discord.com/invite/cudos) | [@CUDOS_](https://twitter.com/CUDOS_) | [Website](https://www.cudos.org/) |
+| Curecoin | Lorum | [Curecoin](https://discord.gg/jtztkFZ) | [@CureCoin_Team](https://twitter.com/CureCoin_Team) | [Website](https://curecoin.net/) |
+| FilSwan | Lorum | [FilSwan](https://discord.com/invite/KKGhy8ZqzK) | [@0xFilSwan](https://twitter.com/0xfilswan) | [Website](https://www.filswan.com/homepage) |
+| Fission | Lorum | [Fission](https://discord.com/invite/daDMAjE) | [@FISSIONcodes](https://twitter.com/FISSIONcodes) | [Website](https://fission.codes/) |
+| Gridcoin | Lorum | [Gridcoin](https://discord.gg/jf9XX4a) | [@GridcoinNetwork](https://twitter.com/GridcoinNetwork/) | [Website](https://gridcoin.us) |
+| Kamu | Lorum | [Kamu](https://discord.gg/nU6TXRQNXC) | N/A | [Website](https://www.kamu.dev/) |
+| Ken Labs | Lorum | N/A | [@KenLabs_Web3](https://twitter.com/kenlabs_web3) | [Website](https://ken.cloud) |
+| MinecraftAtHome | Lorum | [MinecraftAtHome](https://discord.com/invite/9ADq74zp) | [@MinecraftAtHome](https://twitter.com/minecraftathome) | [Website](https://minecraftathome.com/) |
