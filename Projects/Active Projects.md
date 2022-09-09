@@ -41,3 +41,14 @@
 | Kamu | Lorum | [Kamu](https://discord.gg/nU6TXRQNXC) | N/A | [Website](https://www.kamu.dev/) |
 | Ken Labs | Lorum | N/A | [@KenLabs_Web3](https://twitter.com/kenlabs_web3) | [Website](https://ken.cloud) |
 | MinecraftAtHome | Lorum | [MinecraftAtHome](https://discord.com/invite/9ADq74zp) | [@MinecraftAtHome](https://twitter.com/minecraftathome) | [Website](https://minecraftathome.com/) |
+
+## Social and Aggregation
+
+| Project   | Description | Discord | Twitter | Website |
+| --------- | ----------- | ------- | ------- | ------- |
+| DeSci Academy | Lorum | N/A | [@TheDeSciAcademy](https://twitter.com/TheDesciAcademy) | [Website](https://www.desci.academy/) |
+| DeSci Alliance | Lorum | [DeSci Alliance](https://discord.com/invite/D2DxBpkfWZ) | [@DeSciAlliance](https://twitter.com/descialliance) | [Website](https://linktr.ee/desci) |
+| DeSci Collective | Lorum | [DeSci Collective](https://discord.com/invite/KtjXYsjBB7) | [@DeSciCollective](https://twitter.com/DeSciCollective) | [Website](https://mintable.app/DeSciCollective) |
+| DeSci World | Lorum | [DeSci World](https://discord.com/invite/jnEUqVH8xv) | [@DeSciWorld](https://twitter.com/DeSciWorld) | [Website](https://desci.world/) |
+| Ultra Rare Bio | Lorum | N/A | [@UltraRareBio](https://twitter.com/UltraRareBio) | [Website](https://www.ultrarare.bio/) |
+| Web3WomenInScience | Lorum | [W3WS](https://discord.gg/P7kPtqRfJf) | [@Web3WomenInSci](https://twitter.com/Web3WomenInSci) | [Website](https://womeninscience.xyz/) |
