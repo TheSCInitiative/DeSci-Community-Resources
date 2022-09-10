@@ -42,6 +42,15 @@
 | Ken Labs | Lorum | N/A | [@KenLabs_Web3](https://twitter.com/kenlabs_web3) | [Website](https://ken.cloud) |
 | MinecraftAtHome | Lorum | [MinecraftAtHome](https://discord.com/invite/9ADq74zp) | [@MinecraftAtHome](https://twitter.com/minecraftathome) | [Website](https://minecraftathome.com/) |
 
+## Meta
+
+| Project   | Description | Discord | Twitter | Website |
+| --------- | ----------- | ------- | ------- | ------- |
+| Active Inference Institute | Lorum | [Active Inference](https://discord.gg/8VNKNp4jtx) | [@InferenceActive](https://twitter.com/InferenceActive) | [Website](http://activeinference.org/) |
+| TalentDAO | Lorum | [TalentDAO](https://discord.gg/e6MqzBJCec) | [@TalentDAO_](https://twitter.com/talentDAO_) | [Website](https://www.talentdao.io/) |
+| OpScientia | Lorum | [OpSci](https://discord.gg/Krb6SpcdBc) | [@OpScientia](https://twitter.com/opscientia) | [Website](https://opsci.io/) |
+| ScienceDAO | Lorum | [ScienceDAO](https://discord.gg/4pByE4Ft7r) | [@TheScienceDAO](http://twitter.com/thesciencedao) | [Website](http://thesciencedao.io/) |
+
 ## Social and Aggregation
 
 | Project   | Description | Discord | Twitter | Website |
