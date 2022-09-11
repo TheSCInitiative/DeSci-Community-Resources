@@ -25,6 +25,12 @@
 | Vibe Bio | Lorum | N/A | [@Vibe_Bio](https://twitter.com/vibe_bio) | [Website](http://www.vibebio.com/) |
 | VitaDAO | Lorum | [VitaDAO](https://discord.gg/vitadao) | [@Vita_DAO](https://twitter.com/vita_dao) | [Website](https://www.vitadao.com/) |
 
+## Climate and Environment
+
+| Project   | Description | Discord | Twitter | Website |
+| --------- | ----------- | ------- | ------- | ------- |
+| ValleyDAO | Lorum | [ValleyDAO](https://discord.com/invite/ejhaHE54JF) | [@Valley_DAO](https://twitter.com/valley_dao) | [Linktree](https://linktr.ee/valleydao) |
+
 ## Compute Over Data
 
 | Project   | Description | Discord | Twitter | Website |
@@ -42,6 +48,12 @@
 | Ken Labs | Lorum | N/A | [@KenLabs_Web3](https://twitter.com/kenlabs_web3) | [Website](https://ken.cloud) |
 | MinecraftAtHome | Lorum | [MinecraftAtHome](https://discord.com/invite/9ADq74zp) | [@MinecraftAtHome](https://twitter.com/minecraftathome) | [Website](https://minecraftathome.com/) |
 
+## Marketplace
+
+| Project   | Description | Discord | Twitter | Website |
+| --------- | ----------- | ------- | ------- | ------- |
+| Impact Finance | Lorum | N/A | [@DeSci_Impact](https://twitter.com/DeSci_Impact) | [Website](https://impact-finance.io/) |
+
 ## Meta
 
 | Project   | Description | Discord | Twitter | Website |
@@ -50,6 +62,13 @@
 | TalentDAO | Lorum | [TalentDAO](https://discord.gg/e6MqzBJCec) | [@TalentDAO_](https://twitter.com/talentDAO_) | [Website](https://www.talentdao.io/) |
 | OpScientia | Lorum | [OpSci](https://discord.gg/Krb6SpcdBc) | [@OpScientia](https://twitter.com/opscientia) | [Website](https://opsci.io/) |
 | ScienceDAO | Lorum | [ScienceDAO](https://discord.gg/4pByE4Ft7r) | [@TheScienceDAO](http://twitter.com/thesciencedao) | [Website](http://thesciencedao.io/) |
+
+## Publishing
+
+| Project   | Description | Discord | Twitter | Website |
+| --------- | ----------- | ------- | ------- | ------- |
+| DeSci Labs | Lorum | [DeSci Labs](https://discord.gg/BeJ4dxXdaJ) | [@DeSciLabs](https://twitter.com/DeSciLabs) | [Website](https://desci.com/) |
+| Research Hub | Lorum | [Research Hub](https://discord.gg/ZcCYgcnUp5) | [@ResearchHub](https://twitter.com/researchhub) | [Website](https://www.researchhub.com/) |
 
 ## Social and Aggregation
 
