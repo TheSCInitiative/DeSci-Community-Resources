@@ -80,3 +80,10 @@
 | DeSci World | Lorum | [DeSci World](https://discord.com/invite/jnEUqVH8xv) | [@DeSciWorld](https://twitter.com/DeSciWorld) | [Website](https://desci.world/) |
 | Ultra Rare Bio | Lorum | N/A | [@UltraRareBio](https://twitter.com/UltraRareBio) | [Website](https://www.ultrarare.bio/) |
 | Web3WomenInScience | Lorum | [W3WS](https://discord.gg/P7kPtqRfJf) | [@Web3WomenInSci](https://twitter.com/Web3WomenInSci) | [Website](https://womeninscience.xyz/) |
+
+## Space exploration
+| Project   | Description | Discord | Twitter | Website |
+| --------- | ----------- | ------- | ------- | ------- |
+| MoonDAO | Lorum | [MoonDAO](https://discord.com/invite/5KjkqutVRJ) | [@OfficialMoonDAO](https://twitter.com/OfficialMoonDAO) | [Website](https://moondao.com/) |
+| LunCo | Lorum | [LunCoSim](https://discord.gg/BMAFeGA7Fx) | [@LunCoSim](https://twitter.com/LunCoSim) | [Website](https://lunco.space/) |
+
