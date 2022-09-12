@@ -86,4 +86,6 @@
 | --------- | ----------- | ------- | ------- | ------- |
 | MoonDAO | Lorum | [MoonDAO](https://discord.com/invite/5KjkqutVRJ) | [@OfficialMoonDAO](https://twitter.com/OfficialMoonDAO) | [Website](https://moondao.com/) |
 | LunCo | Lorum | [LunCoSim](https://discord.gg/BMAFeGA7Fx) | [@LunCoSim](https://twitter.com/LunCoSim) | [Website](https://lunco.space/) |
+| FrontierDAO | Lorum | [FrontierDAO](https://discord.com/invite/UQVVw8QWrV) | [@FrontierDAO](https://twitter.com/FrontierDAO) | [Website](https://www.frontierdao.xyz/) |
+
 
