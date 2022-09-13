@@ -88,4 +88,22 @@
 | LunCo | Lorum | [LunCoSim](https://discord.gg/BMAFeGA7Fx) | [@LunCoSim](https://twitter.com/LunCoSim) | [Website](https://lunco.space/) |
 | FrontierDAO | Lorum | [FrontierDAO](https://discord.com/invite/UQVVw8QWrV) | [@FrontierDAO](https://twitter.com/FrontierDAO) | [Website](https://www.frontierdao.xyz/) |
 
+## Not Exclusively DeSci, but Related and/or Supportive
+
+| Project   | Description | Discord | Twitter | Website |
+| --------- | ----------- | ------- | ------- | ------- |
+| CherubsDAO | Lorum | [CherubsDAO](https://discord.com/invite/pSAbaHf7Rf) | [@CherubsDAO](https://twitter.com/CherubsDao) | [Website](https://cherubsdao.com/) |
+| CrunchDAO | Lorum | N/A | [@CrunchDAO](https://twitter.com/CrunchDAO) |[Website](https://www.crunchdao.com/) |
+| Crypto Sapiens | Lorum | [Crypto Sapiens](https://discord.com/invite/cryptosapiens) | [@CryptoSapiens_](https://twitter.com/CryptoSapiens_) | [Website](https://linktr.ee/CryptoSapiensOfficial) |
+| Fluence | Lorum | [Fluence](https://discord.com/invite/5qSnPZKh7u) | [@Fluence_Project](https://twitter.com/fluence_project) | [Website](https://fluence.network/) |
+| Foresight Institute | Lorum | N/A | [@foresightinst](https://twitter.com/foresightinst) | [Website](https://foresight.org/) |
+| Koii Networks | Lorum | [Koii](https://discord.com/invite/koii) | [@KoiiNetwork](https://twitter.com/KoiiNetwork) | [Website](https://www.koii.network/) |
+| Nevermined | Lorum | [Nevermined](https://discord.com/invite/GZju2qScKq) | [@Nevermined_io](https://twitter.com/Nevermined_io) | [Website](https://nevermined.io/) |
+| OrangeDAO | Lorum | [OrangeDAO](https://discord.com/invite/gFV7SB98UA) | [@OrangeProtocol](https://twitter.com/OrangeProtocol) | [Website](https://www.orangeprotocol.io/) |
+| PolygonDAO | Lorum | [PolygonDAO](https://discord.com/invite/Ct3FBqWSus) | [@0xPolygonDAO](https://twitter.com/0xPolygonDAO) | [Website](https://polygon.community/#/) |
+| Protocol Labs | Lorum | N/A | [@ProtocolLabs](https://twitter.com/protocollabs) | [Website](https://protocol.ai/) |
+| Sapien Nation | Lorum | [Sapien Nation](https://discord.com/invite/DHeUu4y37s) | [@Sapien_Network](https://twitter.com/sapien_network) | [Website](https://www.sapien.network/)
+| Smart Contract Research Forum | Lorum | [SCRF](https://discord.gg/BPqN5mjzeC) | [@SCRForum](https://twitter.com/SCRForum) | [Website](https://scrf.io/) |
+| The Idea Market | Lorum | [The Idea Market](https://discord.com/invite/TPTHvutjnc) | [@IdeaMarket_IO](https://twitter.com/ideamarket_io) | [Website](https://ideamarket.io/) |
+
 
