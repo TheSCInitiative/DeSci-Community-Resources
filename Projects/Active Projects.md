@@ -60,7 +60,7 @@
 | --------- | ----------- | ------- | ------- | ------- |
 | Active Inference Institute | Lorum | [Active Inference](https://discord.gg/8VNKNp4jtx) | [@InferenceActive](https://twitter.com/InferenceActive) | [Website](http://activeinference.org/) |
 | TalentDAO | Lorum | [TalentDAO](https://discord.gg/e6MqzBJCec) | [@TalentDAO_](https://twitter.com/talentDAO_) | [Website](https://www.talentdao.io/) |
-| OpScientia | OpSci's mandate is the seeding of a flourishing decentralized science (DeSci) commons that empowers individuals to innovate and pursue novel discoveries in collaboration with traditional institutions. The OpSci Society ecosystem is built on three components: 1) Identity & Reputation, 2) Scholarship & Research, and 3) Publishing and Discovery. | [OpSci](https://discord.gg/Krb6SpcdBc) | [@OpScientia](https://twitter.com/opscientia) | [Website](https://opsci.io/) |
+| OpScientia | OpSci's mandate is the seeding of a flourishing DeSci commons that empowers individuals to innovate and pursue novel discoveries in collaboration with traditional institutions. The OpSci Society ecosystem is built on three components: 1) Identity & Reputation, 2) Scholarship & Research, and 3) Publishing and Discovery. | [OpSci](https://discord.gg/Krb6SpcdBc) | [@OpScientia](https://twitter.com/opscientia) | [Website](https://opsci.io/) |
 | ScienceDAO | Lorum | [ScienceDAO](https://discord.gg/4pByE4Ft7r) | [@TheScienceDAO](http://twitter.com/thesciencedao) | [Website](http://thesciencedao.io/) |
 
 ## Publishing
