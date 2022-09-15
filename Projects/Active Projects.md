@@ -105,5 +105,4 @@
 | Sapien Nation | Lorum | [Sapien Nation](https://discord.com/invite/DHeUu4y37s) | [@Sapien_Network](https://twitter.com/sapien_network) | [Website](https://www.sapien.network/)
 | Smart Contract Research Forum | Lorum | [SCRF](https://discord.gg/BPqN5mjzeC) | [@SCRForum](https://twitter.com/SCRForum) | [Website](https://scrf.io/) |
 | The Idea Market | Lorum | [The Idea Market](https://discord.com/invite/TPTHvutjnc) | [@IdeaMarket_IO](https://twitter.com/ideamarket_io) | [Website](https://ideamarket.io/) |
-
-
+| Weavechain | Lorum | [Weavechain](https://discord.gg/uUb2tsQ2Bb) | [@WeavechainWeb3](https://twitter.com/WeavechainWeb3) | [Website](https://weavechain.com) |
