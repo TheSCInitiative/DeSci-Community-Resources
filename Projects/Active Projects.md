@@ -93,7 +93,7 @@
 | Project   | Description | Discord | Twitter | Website |
 | --------- | ----------- | ------- | ------- | ------- |
 | CherubsDAO | Lorum | [CherubsDAO](https://discord.com/invite/pSAbaHf7Rf) | [@CherubsDAO](https://twitter.com/CherubsDao) | [Website](https://cherubsdao.com/) |
-| CrunchDAO | Lorum | N/A | [@CrunchDAO](https://twitter.com/CrunchDAO) |[Website](https://www.crunchdao.com/) |
+| CrunchDAO | CrunchDAO is a Decentralized Autonomous Organization of scientists making use of collective intelligence to solve complex problems. Focusing on quantitative finance, it makes use of DeSci as a tool to coordinate its members. | [CrunchDAO](https://discord.gg/x7kFex8G) | [@CrunchDAO](https://twitter.com/CrunchDAO) |[Website](https://www.crunchdao.com/) |
 | Crypto Sapiens | Lorum | [Crypto Sapiens](https://discord.com/invite/cryptosapiens) | [@CryptoSapiens_](https://twitter.com/CryptoSapiens_) | [Website](https://linktr.ee/CryptoSapiensOfficial) |
 | Fluence | Lorum | [Fluence](https://discord.com/invite/5qSnPZKh7u) | [@Fluence_Project](https://twitter.com/fluence_project) | [Website](https://fluence.network/) |
 | Foresight Institute | Lorum | N/A | [@foresightinst](https://twitter.com/foresightinst) | [Website](https://foresight.org/) |
