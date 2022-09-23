@@ -30,6 +30,7 @@
 | Project   | Description | Discord | Twitter | Website |
 | --------- | ----------- | ------- | ------- | ------- |
 | ValleyDAO | Lorum | [ValleyDAO](https://discord.com/invite/ejhaHE54JF) | [@Valley_DAO](https://twitter.com/valley_dao) | [Linktree](https://linktr.ee/valleydao) |
+| YhiDAO | YhiDAO is focused on funding research and projects in regenerative materials and energy, then monetizing IP-NFTs, in order to create infrastructures for a world of abundance. | [YhiDAO](https://discord.gg/qWm6kwtBdM) | N/A | [Yhi.earth](https://www.yhi.earth/) |
 
 ## Compute Over Data
 
