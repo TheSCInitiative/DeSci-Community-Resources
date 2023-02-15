@@ -42,6 +42,7 @@
 | Ceramic | Lorum | [Ceramic](https://chat.ceramic.network/) | [@CeramicNetwork](https://twitter.com/ceramicnetwork) | [Website](https://ceramic.network/) |
 | Cudos | Lorum | [Cudos](https://discord.com/invite/cudos) | [@CUDOS_](https://twitter.com/CUDOS_) | [Website](https://www.cudos.org/) |
 | Curecoin | Lorum | [Curecoin](https://discord.gg/jtztkFZ) | [@CureCoin_Team](https://twitter.com/CureCoin_Team) | [Website](https://curecoin.net/) |
+| DBDAO | Lorum | N/A | [db_dao](https://twitter.com/db_dao) | [Website](https://dbdao.xyz/) |
 | FilSwan | Lorum | [FilSwan](https://discord.com/invite/KKGhy8ZqzK) | [@0xFilSwan](https://twitter.com/0xfilswan) | [Website](https://www.filswan.com/homepage) |
 | Fission | Lorum | [Fission](https://discord.com/invite/daDMAjE) | [@FISSIONcodes](https://twitter.com/FISSIONcodes) | [Website](https://fission.codes/) |
 | Gridcoin | Lorum | [Gridcoin](https://discord.gg/jf9XX4a) | [@GridcoinNetwork](https://twitter.com/GridcoinNetwork/) | [Website](https://gridcoin.us) |
